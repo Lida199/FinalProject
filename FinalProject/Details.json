@@ -7,36 +7,15 @@
     "CVC": "123"
   },
   "pinCode": "1234",
-  "amountGEL": 4000,
-  "amountUSD": 1000,
-  "amountEUR": 2500,
+  "amountGEL": 5000,
+  "amountUSD": 2500,
+  "amountEUR": 1500,
   "transactionHistory": [
     {
       "transactionDate": "2025-01-03T10:15:30Z",
       "transactionType": "ChangePin",
       "amountGEL": 0,
       "amountUSD": 0,
-      "amountEUR": 0
-    },
-    {
-      "transactionDate": "2025-09-25T13:21:45Z",
-      "transactionType": "CheckLast5Transactions",
-      "amountGEL": 0,
-      "amountUSD": 0,
-      "amountEUR": 0
-    },
-    {
-      "transactionDate": "2025-09-25T16:08:58Z",
-      "transactionType": "AddAmount",
-      "amountGEL": 0,
-      "amountUSD": 200,
-      "amountEUR": 0
-    },
-    {
-      "transactionDate": "2025-09-25T16:10:05Z",
-      "transactionType": "GetAmount",
-      "amountGEL": 0,
-      "amountUSD": 200,
       "amountEUR": 0
     }
   ]
